@@ -36,10 +36,10 @@ int mostCalories(int numOfElves, std::string filename)
 
 void day1::part1()
 {
-    std::cout << "Part 1: " << mostCalories(1, "data/day1part1") << std::endl;
+    std::cout << "Part 1: " << mostCalories(1, "data/day1") << std::endl;
 }
 
 void day1::part2()
 {
-    std::cout << "Part 2: " << mostCalories(3, "data/day1part2") << std::endl;
+    std::cout << "Part 2: " << mostCalories(3, "data/day1") << std::endl;
 }
