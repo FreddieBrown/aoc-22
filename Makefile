@@ -7,6 +7,9 @@ main: src/*.cpp
 day1: 
 	make main
 	./main day1
+day2: 
+	make main
+	./main day2
 
 clean:
 			rm -rf main

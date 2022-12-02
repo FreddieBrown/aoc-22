@@ -17,5 +17,6 @@
 #include <utility>
 #include <vector>
 #include <numeric>
+#include <sstream>
 
 #endif

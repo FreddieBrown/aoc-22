@@ -1,5 +1,6 @@
 #include "shared.hpp"
 #include "day1.hpp"
+#include "day2.hpp"
 
 int main(int argc, char **argv)
 {
@@ -13,11 +14,13 @@ int main(int argc, char **argv)
 
     if (day == "day1")
     {
-
-        // do part 1
         day1::part1();
-        // do part 2
         day1::part2();
+    }
+    else if (day == "day2")
+    {
+        day2::part1();
+        day2::part2();
     }
     else
     {
