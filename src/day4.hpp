@@ -1,6 +1,6 @@
 #include "shared.hpp"
 
-namespace day3
+namespace day4
 {
     int solver(std::string filename, bool part1);
 

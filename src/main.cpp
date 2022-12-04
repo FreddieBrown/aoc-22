@@ -2,6 +2,7 @@
 #include "day1.hpp"
 #include "day2.hpp"
 #include "day3.hpp"
+#include "day4.hpp"
 
 int main(int argc, char **argv)
 {
@@ -27,6 +28,11 @@ int main(int argc, char **argv)
     {
         day3::part1();
         day3::part2();
+    }
+    else if (day == "day4")
+    {
+        day4::part1();
+        day4::part2();
     }
     else
     {

@@ -40,7 +40,7 @@ int common(std::vector<std::string> &collectionOfItems)
     return total;
 }
 
-int solver(std::string filename, bool part1)
+int day3::solver(std::string filename, bool part1)
 {
     int total(0);
     std::string rucksack;

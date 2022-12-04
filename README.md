@@ -13,3 +13,7 @@ Not that hard again. I think there is probably a better way of working out the s
 ## Day 3
 
 Part 1 was easy, had to refactor a fair amount for part 2. Not sure solution was most optimal but happy with how scores were calculated as I think that is fast as can be. Sets solution is quite memory-heavy so I wonder if there is a better way of doing that.
+
+## Day 4
+
+Wasn't too bad today, the catch in part 2 was actually making sure one of the lower bounds was less than or equal to the other upper bound. Not too hard.
