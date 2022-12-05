@@ -2,7 +2,7 @@
 
 namespace day5
 {
-    int solver(std::string filename, bool part1);
+    std::string solver(std::string filename, bool part1);
 
     void part1();
 

@@ -17,3 +17,7 @@ Part 1 was easy, had to refactor a fair amount for part 2. Not sure solution was
 ## Day 4
 
 Wasn't too bad today, the catch in part 2 was actually making sure one of the lower bounds was less than or equal to the other upper bound. Not too hard.
+
+## Day 5
+
+The actual challenge wasn't very hard, it was easy to adapt part 1 to part 2. The main pain was digging out the initial crates data from the text file.
