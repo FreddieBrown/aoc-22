@@ -10,6 +10,7 @@
 #include <fstream>
 #include <map>
 #include <set>
+#include <regex>
 #include <memory>
 #include <queue>
 #include <string.h>

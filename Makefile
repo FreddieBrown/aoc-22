@@ -16,6 +16,9 @@ day3:
 day4: 
 	make main
 	./main day4
+day5: 
+	make main
+	./main day5
 
 clean:
 			rm -rf main
